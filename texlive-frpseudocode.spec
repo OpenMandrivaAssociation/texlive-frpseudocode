@@ -1,6 +1,6 @@
 Name:		texlive-frpseudocode
 Version:	56088
-Release:	1
+Release:	2
 Summary:	French translation for the algorithmicx package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/frpseudocode
