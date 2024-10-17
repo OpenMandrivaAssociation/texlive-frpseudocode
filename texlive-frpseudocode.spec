@@ -3,7 +3,7 @@ Version:	56088
 Release:	2
 Summary:	French translation for the algorithmicx package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/frpseudocode
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/frpseudocode
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/frpseudocode.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/frpseudocode.doc.r%{version}.tar.xz
